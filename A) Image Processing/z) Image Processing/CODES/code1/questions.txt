@@ -1,0 +1,6 @@
+
+1. Read a colour image and convert it into greyscale image
+2. Image negative
+3. Log transformation
+4. Gamma correction
+5. Split R G B channels into separate images
